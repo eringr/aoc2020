@@ -1,0 +1,4 @@
+*.pdb
+*.py
+*/target/*
+**/*.rs.bk
